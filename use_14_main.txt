@@ -1,0 +1,12 @@
+-- Source Extractor Pipeline Parameter File --
+
+DIRECTORY: /Volumes/Random_Storage/ProtectionLayer/F606_Results_DA1/Thresh/Visit9/each_run1.0
+IMAGE: /Users/mokshahuja/Desktop/ASTRES/F606_TestImages/Visit9.fits
+STARTSIZE: 2
+ENDSIZE: 5
+SIZESTEP: 1
+STARTMAG: 20
+ENDMAG: 22
+MAGSTEP: 1
+EXTENSION: 0
+SEX PARAMETER FILE: /Users/mokshahuja/Desktop/14_RD_pipeline/config_pipe

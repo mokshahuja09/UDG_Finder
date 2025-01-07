@@ -1,0 +1,5 @@
+-- Source Extractor Pipeline Parameter File --
+
+OUTPUT_DIR: /Volumes/Random_Storage/ProtectionLayer/F606_Results_241007/
+IMAGES_DIR: /Users/mokshahuja/Desktop/ASTRES/F606_Test241007
+SEX_CONFIG_FOLDER: /Users/mokshahuja/Desktop/14_RD_pipeline/config_pipe

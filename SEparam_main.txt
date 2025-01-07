@@ -1,0 +1,12 @@
+-- Source Extractor Pipeline Parameter File --
+
+DIRECTORY: /Volumes/Random_Storage/ProtectionLayer/DF44/Thresh/Visit299/each_run
+IMAGE: /Users/mokshahuja/Desktop/ASTRES/DF44_Image/Visit299.fits
+STARTSIZE: 2
+ENDSIZE: 5
+SIZESTEP: 1
+STARTMAG: 20
+ENDMAG: 22
+MAGSTEP: 1
+EXTENSION: 0
+SEX PARAMETER FILE: /Users/mokshahuja/Desktop/12-pipeline/config_pipe

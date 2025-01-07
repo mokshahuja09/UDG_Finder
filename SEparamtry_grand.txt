@@ -1,0 +1,12 @@
+-- Source Extractor Pipeline Parameter File --
+
+DIRECTORY: /Volumes/Random_Storage/ProtectionLayer/trynewparam/damn
+IMAGE: /Users/mokshahuja/desktop/ASTRES/Image2/Image2view.fits
+STARTSIZE: 5
+ENDSIZE: 6
+SIZESTEP: 1
+STARTMAG: 20
+ENDMAG: 22
+MAGSTEP: 1
+EXTENSION: 0
+SEX PARAMETER FILE: /Users/mokshahuja/Desktop/10-pipeline/config_pipe

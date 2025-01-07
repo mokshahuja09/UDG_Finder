@@ -1,0 +1,12 @@
+-- Source Extractor Pipeline Parameter File --
+
+DIRECTORY: /Volumes/Random_Storage/ProtectionLayer/DF44_Test/Thresh/damn
+IMAGE: /Users/mokshahuja/desktop/ASTRES/Image2/Image2view.fits
+STARTSIZE: 2
+ENDSIZE: 5
+SIZESTEP: 1
+STARTMAG: 20
+ENDMAG: 22
+MAGSTEP: 1
+EXTENSION: 0
+SEX PARAMETER FILE: /Users/mokshahuja/Desktop/14_RD_pipeline/config_pipe

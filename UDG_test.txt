@@ -1,0 +1,5 @@
+-- Source Extractor Pipeline Parameter File --
+
+OUTPUT_DIR: /Volumes/Random_Storage/ProtectionLayer/DF44_Test/
+IMAGES_DIR: /Users/mokshahuja/Desktop/ASTRES/DF44_Image
+SEX_CONFIG_FOLDER: /Users/mokshahuja/Desktop/13-DF_pipeline/config_pipe
